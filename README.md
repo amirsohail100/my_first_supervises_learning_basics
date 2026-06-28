@@ -73,3 +73,12 @@ Every programmatic pipeline within this structure utilizes clean production-read
 ---
 
 💡 _This module acts as the solid mathematical foundation for my current and future exploration into Deep Learning and advanced pattern recognition frameworks._
+
+## 🚀 How to Run Locally
+
+### 1. Clone and Enter the Repository
+
+```bash
+git clone [https://github.com/amirsohail100/my_first_supervises_learning_basics.git](https://github.com/amirsohail100/my_first_supervises_learning_basics.git)
+cd my_first_supervises_learning_basics
+```
